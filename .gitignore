@@ -1,0 +1,5 @@
+# email logs
+backend/logfile.log
+
+# .env file
+.env
